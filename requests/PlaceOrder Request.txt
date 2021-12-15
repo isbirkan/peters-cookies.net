@@ -1,0 +1,44 @@
+{
+  "name": "Birkan",
+  "totalPricePresentation": "€ 27,15",
+  "quotes": [
+    {
+      "supplierName": "Supplier C",
+      "cookieType": "Regular",
+      "totalAmount": 8.14
+    },
+    {
+      "supplierName": "Supplier C",
+      "cookieType": "SugarFree",
+      "totalAmount": 4.78
+    },
+    {
+      "supplierName": "Supplier C",
+      "cookieType": "Super",
+      "totalAmount": 14.23
+    }
+  ],
+  "orderRows": [
+    {
+      "amount": 8,
+      "type": "Regular",
+      "brand": "Cuddlies",
+      "supplierName": "Supplier C",
+      "wishDate": "2022-01-05T00:00:00"
+    },
+    {
+      "amount": 3,
+      "type": "SugarFree",
+      "brand": "Cuddlies",
+      "supplierName": "Supplier C",
+      "wishDate": "2022-01-05T00:00:00"
+    },
+    {
+      "amount": 14,
+      "type": "Super",
+      "brand": "Cuddlies",
+      "supplierName": "Supplier C",
+      "wishDate": "2022-01-05T00:00:00"
+    }
+  ]
+}
